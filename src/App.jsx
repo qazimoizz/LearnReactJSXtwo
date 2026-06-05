@@ -3,13 +3,15 @@
 // import MultiFormHandling from "./MultiFormHandling"
 // import ToggleText from "./ToggleText"
 
-import NewForm from "./NewForm"
+// import NewForm from "./NewForm"
+import ValidationForm from "./ValidationForm"
 
 function App() {
 
   return (
     <>
-  <NewForm/>
+  <ValidationForm/>
+  {/* <NewForm/> */}
     {/* <MultiFormHandling/> */}
     {/* <ToggleText/>
     <Counter/> */}
