@@ -1,13 +1,16 @@
 // import Counter from "./counter/Counter"
 // import FormHandle from "./FormHandle"
-import MultiFormHandling from "./MultiFormHandling"
+// import MultiFormHandling from "./MultiFormHandling"
 // import ToggleText from "./ToggleText"
+
+import NewForm from "./NewForm"
 
 function App() {
 
   return (
     <>
-    <MultiFormHandling/>
+  <NewForm/>
+    {/* <MultiFormHandling/> */}
     {/* <ToggleText/>
     <Counter/> */}
     {/* <br /><br /><br /> */}
